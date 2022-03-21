@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "income-expenses-app-e119f": {
+      "hosting": {
+        "entry": [
+          "income-expenses-app-e119f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "income-expenses-app-e119f"
+  }
+}
